@@ -1,6 +1,6 @@
 # LEGACY rusEFI libraries
 
-With KiCAD 6 library file format was change. This repo contain libraries in what is now legacy format.
+With KiCAD 6 library file format was changed. This repo contains libraries in what is now legacy format. All newer stuff is hosted at https://github.com/rusefi/kicad6-libraries
 
 This folder contains rusEFI libaries. These files are used by KICAD in circuit board layouts. 
 
