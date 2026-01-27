@@ -1,6 +1,8 @@
-This folder contains rusEFI libaries. These files are used by KICAD in circuit board layouts. 
+# LEGACY rusEFI libraries
 
-As of Jan 2019 KiCad 4.0.7 is the offical KICAD for rusEFI's layouts. 
+With KiCAD 6 library file format was change. This repo contain libraries in what is now legacy format.
+
+This folder contains rusEFI libaries. These files are used by KICAD in circuit board layouts. 
 
 Please note that you would need to fork https://github.com/rusefi/kicad-libraries if
 you would like to contribute to rusEFI component library - you cannot contribute to
